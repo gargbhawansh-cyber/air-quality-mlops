@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+*.pyo
+data/
+docs/
+dashboard/
+airflow/
+supabase/
+src/
+node_modules/
+dist/
+.git
+.env
+*.md
+.bolt
